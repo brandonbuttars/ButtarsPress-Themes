@@ -1,0 +1,11 @@
+Cufon.replace('h1', { hover: true });
+Cufon.replace('h2', { hover: true });
+Cufon.replace('h3', { hover: true });
+Cufon.replace('h4', { hover: true });
+Cufon.replace('h5', { hover: true });
+Cufon.replace('h6', { hover: true });
+Cufon.replace('.menu h2', { hover: true });
+Cufon.replace('button', { hover: true, textShadow: '1.5px 1.5px #610400' });
+Cufon.replace('#top_nav li a', { hover: true, textShadow: '1.5px 1.5px #610400' });
+Cufon.replace('#sidebar h2', { hover: true, textShadow: '1.5px 1.5px #610400' });
+Cufon.replace('.cufon', { hover: true });
